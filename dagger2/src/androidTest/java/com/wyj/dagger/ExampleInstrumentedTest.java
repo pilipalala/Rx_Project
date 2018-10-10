@@ -1,4 +1,4 @@
-package com.example.wangy.rx_project;
+package com.wyj.dagger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.wangy.rx_project", appContext.getPackageName());
+        assertEquals("com.wyj.dagger.test", appContext.getPackageName());
     }
 }

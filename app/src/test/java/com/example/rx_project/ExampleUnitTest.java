@@ -1,4 +1,4 @@
-package com.example.wangy.rx_project;
+package com.example.rx_project;
 
 import org.junit.Test;
 
